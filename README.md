@@ -1,2 +1,2 @@
 # GDSC_1
-First Git R epo
+First Git Repo
