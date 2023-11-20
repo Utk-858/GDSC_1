@@ -1,3 +1,3 @@
 # GDSC_1
-First Git Repo
+First Git Repo. 
 Author - UTKARSH BANSAL
